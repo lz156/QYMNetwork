@@ -90,10 +90,10 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "runtime/*"
+  spec.source_files  = "./runtime/*"
   #spec.exclude_files = "runtime/"
 
-  spec.public_header_files = "runtime/QYMNetwork.h"
+  spec.public_header_files = "./runtime/QYMNetwork.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
