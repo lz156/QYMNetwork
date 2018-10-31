@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "QYMNetwork"
-  spec.version      = "0.0.2"
+  spec.version      = "v0.0.2"
   spec.summary      = "AFNetworking 封装库"
 
   # This description is used to generate tags and improve search results.
